@@ -12,8 +12,4 @@ For directly Displaying output
 go run file_path
 ```
 
-For printing output 
-```
-fmt.Println()
-```
-
+ 
